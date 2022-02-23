@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Intro", "01Intro\01Intro.csproj", "{0A490BB4-D90B-4CEA-BC92-43D52C03EE15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLServerIntro", "SQLServerIntro\SQLServerIntro.csproj", "{C75A243F-BEA5-4009-A934-094E80A8FF80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A490BB4-D90B-4CEA-BC92-43D52C03EE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A490BB4-D90B-4CEA-BC92-43D52C03EE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A490BB4-D90B-4CEA-BC92-43D52C03EE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A490BB4-D90B-4CEA-BC92-43D52C03EE15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75A243F-BEA5-4009-A934-094E80A8FF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75A243F-BEA5-4009-A934-094E80A8FF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75A243F-BEA5-4009-A934-094E80A8FF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75A243F-BEA5-4009-A934-094E80A8FF80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42D6654B-50EC-4820-ADD0-9C72D5C96084}
+	EndGlobalSection
+EndGlobal
